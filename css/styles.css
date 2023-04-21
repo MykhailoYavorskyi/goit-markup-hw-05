@@ -301,7 +301,7 @@ ul {
 }
 .modal {
   position: absolute;
-  top: 88px;
+  top: 50%;
   left: 50%;
   width: 408px;
   padding: 24px;
@@ -310,7 +310,7 @@ ul {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
 }
 .modal-close-button {
   display: block;
