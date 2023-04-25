@@ -372,8 +372,6 @@ ul {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-.avdantages-list-icon {
-}
 
 /**
   |============================
@@ -576,7 +574,6 @@ ul {
 }
 .footer-contant {
   display: flex;
-
   align-items: baseline;
 }
 
